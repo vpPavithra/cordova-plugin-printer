@@ -44,7 +44,7 @@ import static android.content.Context.PRINT_SERVICE;
 import static android.os.Build.VERSION.SDK_INT;
 import static android.print.PrintJobInfo.STATE_COMPLETED;
 import static de.appplant.cordova.plugin.printer.PrintContent.ContentType.UNSUPPORTED;
-
+import de.appplant.cordova.plugin.printer.PrintProxy;
 /**
  * Provides high level methods for printing.
  */

@@ -29,6 +29,7 @@ import android.print.PrintAttributes;
 import android.print.PrintDocumentAdapter;
 import androidx.annotation.NonNull;        
 import androidx.annotation.Nullable;
+import androidx.print.PrintHelper;
 
 /**
  * Simple delegate class to have access to the onFinish method.
